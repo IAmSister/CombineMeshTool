@@ -1,0 +1,2 @@
+# CombineMeshTool
+meshSimplify脚本挂到一个对象上，能把它以及它子级上所有mesh都减
